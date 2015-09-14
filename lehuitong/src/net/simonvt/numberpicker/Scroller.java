@@ -15,7 +15,6 @@
  */
 
 package net.simonvt.numberpicker;
-
 import android.content.Context;
 import android.hardware.SensorManager;
 import android.util.FloatMath;
